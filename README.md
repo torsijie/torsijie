@@ -22,6 +22,14 @@
 
 ###
 
+<h2 align="left">Soft Skills</h2>
+
+###
+
+<p align="left">• Teamwork<br>• Communication<br>• Problem-solving</p>
+
+###
+
 <h2 align="left">Languages and Tools</h2>
 
 ###
