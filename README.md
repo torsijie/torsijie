@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">•	📚 I'm currently studying Bachelor of Computer Science (Graphics and Multimedia Software) <br>•	🎯 Hope to be a successful programmer<br>•	📫 Reach me at torsijie@graduate.utm.my <br>•	📄My E-Portfolio: https://e-portfiliotorsijie.my.canva.site/</p>
+<p align="left">•	📚 I'm currently studying Bachelor of Computer Science (Graphics and Multimedia Software) <br>•	🎯 Hope to be a successful programmer<br>•	📫 Reach me at <torsijie@graduate.utm.my <br>•	📄My E-Portfolio: https://e-portfiliotorsijie.my.canva.site/</p>
 
 ###
 
